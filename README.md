@@ -1,9 +1,9 @@
 > List of awesome link for coq the proof assistant(WIP)
 
 # Blog
-http://gallium.inria.fr/blog/ 
-http://goto.ucsd.edu/~vrobert/coq-en-stock/blog/
-http://coq-blog.clarus.me/
+ * http://gallium.inria.fr/blog/ 
+ * http://goto.ucsd.edu/~vrobert/coq-en-stock/blog/
+ * http://coq-blog.clarus.me/
 
 # Book
  * [Software Foundation](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
