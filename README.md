@@ -4,6 +4,7 @@
  * http://gallium.inria.fr/blog/ 
  * http://goto.ucsd.edu/~vrobert/coq-en-stock/blog/
  * http://coq-blog.clarus.me/
+ * http://poleiro.info/
 
 # Book
  * [Software Foundation](http://www.cis.upenn.edu/~bcpierce/sf/current/index.html)
